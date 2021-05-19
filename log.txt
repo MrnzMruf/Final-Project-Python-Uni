@@ -1,0 +1,143 @@
+[2021-05-16 19:51:53.158203] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 19:51:53.164201] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 19:51:53.167198] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 19:51:53.168198] Mohsen Razavi Logged out
+[2021-05-16 19:51:53.169198] Mohsen Razavi Logged out
+[2021-05-16 19:52:32.680673] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 19:52:32.685675] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 19:52:32.688655] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 19:52:32.689651] Mohsen Razavi Logged out
+[2021-05-16 19:52:32.690651] Mohsen Razavi Logged out
+[2021-05-16 19:52:52.011944] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 19:52:52.016941] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 19:52:52.021939] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 19:52:52.022938] Mohsen Razavi Logged out
+[2021-05-16 19:52:52.023938] Mohsen Razavi Logged out
+[2021-05-16 19:54:03.584616] 'u2' admin Logged in sucsessfully
+[2021-05-16 19:56:26.338308] u2 Logged out
+[2021-05-16 19:56:37.916637] wrong password
+[2021-05-16 19:57:03.683418] wrong user name input
+[2021-05-16 19:57:13.029356] 'u2' admin Logged in sucsessfully
+[2021-05-16 19:57:40.348485] u2 Logged out
+[2021-05-16 20:04:20.399930] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:04:56.528431] Mohsen Razavi taked courses are Accepted
+[2021-05-16 20:04:56.530430] Mohsen Razavi taked courses are Accepted
+[2021-05-16 20:05:42.975808] u2 Logged out
+[2021-05-16 20:06:08.090103] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:06:26.017351] Mohsen Razavi taked courses are Accepted
+[2021-05-16 20:06:53.418653] Mohsen Razavi taked courses are Accepted
+[2021-05-16 20:07:02.561891] u2 Logged out
+[2021-05-16 20:12:47.984172] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:12:47.988170] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:12:48.022455] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:12:48.025455] Mohsen Razavi Logged out
+[2021-05-16 20:12:48.026432] Mohsen Razavi Logged out
+[2021-05-16 20:13:52.172941] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:14:13.652474] 123 course is added
+[2021-05-16 20:16:18.744043] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:17:36.917965] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:17:55.198245] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:17:55.207262] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:17:55.218234] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:17:55.222232] Mohsen Razavi Logged out
+[2021-05-16 20:17:55.225231] Mohsen Razavi Logged out
+[2021-05-16 20:18:01.490594] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:18:01.496572] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:18:01.505572] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:18:01.509565] Mohsen Razavi Logged out
+[2021-05-16 20:18:01.510565] Mohsen Razavi Logged out
+[2021-05-16 20:26:33.973139] u2 Logged out
+[2021-05-16 20:26:42.582761] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:26:57.648209] rty course is added
+[2021-05-16 20:29:14.738242] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:29:28.120278] u2 Logged out
+[2021-05-16 20:29:35.576871] '1' Logged in sucsessfully
+[2021-05-16 20:30:12.834296] 1 Logged out
+[2021-05-16 20:30:35.853803] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:30:55.485475] Geotechnical Engineering course Selected by Mohsen Razavi
+[2021-05-16 20:32:08.885481] Mohsen Razavi Logged out
+[2021-05-16 20:33:24.028593] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:34:03.841256] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:34:38.618049] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:34:58.523854] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:35:05.556465] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:35:05.562463] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:35:05.569457] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:35:05.574452] Mohsen Razavi Logged out
+[2021-05-16 20:35:05.575451] Mohsen Razavi Logged out
+[2021-05-16 20:37:08.475147] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:37:08.480145] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:37:08.489140] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:37:08.493137] Mohsen Razavi Logged out
+[2021-05-16 20:37:08.494137] Mohsen Razavi Logged out
+[2021-05-16 20:37:47.277225] 'user1' admin Logged in sucsessfully
+[2021-05-16 20:37:47.277225] wrong user name input
+[2021-05-16 20:37:47.278226] wrong role input
+[2021-05-16 20:37:47.284224] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:37:47.286221] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:38:00.850416] 'user1' admin Logged in sucsessfully
+[2021-05-16 20:38:00.850416] wrong user name input
+[2021-05-16 20:38:00.851416] wrong role input
+[2021-05-16 20:38:00.857413] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:38:00.859414] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:38:05.407262] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:38:05.413259] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:38:05.420254] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:38:13.191987] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:38:13.196965] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:38:13.204962] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:38:13.208961] Mohsen Razavi Logged out
+[2021-05-16 20:38:13.208961] Mohsen Razavi Logged out
+[2021-05-16 20:39:23.768392] 'u2' admin Logged in sucsessfully
+[2021-05-16 20:39:49.031946] 1 taked courses are Accepted
+[2021-05-16 20:40:05.671196] u2 Logged out
+[2021-05-16 20:42:45.657456] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:43:05.467196] Mohsen Razavi Logged out
+[2021-05-16 20:46:55.406397] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:46:55.412395] Machine Learning course Selected by Mohsen Razavi
+[2021-05-16 20:46:55.419388] Data Mining course Selected by Mohsen Razavi
+[2021-05-16 20:46:55.423406] Mohsen Razavi Logged out
+[2021-05-16 20:46:55.424387] Mohsen Razavi Logged out
+[2021-05-16 20:48:02.387312] 'Mohsen Razavi' Logged in sucsessfully
+[2021-05-16 20:48:13.690375] Mohsen Razavi Logged out
+[2021-05-18 09:12:50.732791] 'user1' admin Logged in successfully
+[2021-05-18 09:12:50.733743] wrong user name input
+[2021-05-18 09:12:50.734794] wrong role input
+[2021-05-18 09:12:50.735742] wrong user name input
+[2021-05-18 09:12:50.738792] 'u2' admin Logged in successfully
+[2021-05-18 22:22:26.507823] 'u2' admin Logged in successfully
+[2021-05-18 22:23:18.830234] Programming course is added
+[2021-05-18 22:23:30.357773] u2 Logged out
+[2021-05-18 22:30:02.015541] 'u2' admin Logged in successfully
+[2021-05-18 23:04:12.033444] 'u2' admin Logged in successfully
+[2021-05-18 23:04:50.386136] maths course is added
+[2021-05-18 23:08:26.762914] u2 Logged out
+[2021-05-18 23:10:21.156037] 'Neda Golshan' Logged in successfully
+[2021-05-18 23:15:23.993316] Neda Golshan Logged out
+[2021-05-18 23:15:41.448961] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:16:57.014320] Data Mining course Selected by Zhila Sabzevari
+[2021-05-18 23:18:12.366345] Zhila Sabzevari Logged out
+[2021-05-18 23:20:30.790190] 'Mohsen Razavi' Logged in successfully
+[2021-05-18 23:21:23.068617] 'Mohsen Razavi' Logged in successfully
+[2021-05-18 23:22:04.678079] 'Mery Marouf' Logged in successfully
+[2021-05-18 23:22:30.293058] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:22:45.035840] Programming course Selected by Zhila Sabzevari
+[2021-05-18 23:22:53.652516] Data Mining course Selected by Zhila Sabzevari
+[2021-05-18 23:30:22.118044] Machine Learning course Selected by Zhila Sabzevari
+[2021-05-18 23:31:07.071135] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:37:35.579243] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:40:58.738653] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:42:01.531757] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:45:24.204585] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:45:40.657021] Data Mining course Selected by Zhila Sabzevari
+[2021-05-18 23:45:48.163231] Programming course Selected by Zhila Sabzevari
+[2021-05-18 23:45:57.234045] Machine Learning course Selected by Zhila Sabzevari
+[2021-05-18 23:47:34.278553] Zhila Sabzevari Logged out
+[2021-05-18 23:47:49.887005] 'u2' admin Logged in successfully
+[2021-05-18 23:48:13.007975] Zhila Sabzevari took courses are Accepted
+[2021-05-18 23:49:12.868559] u2 Logged out
+[2021-05-18 23:49:23.026432] 'Zhila Sabzevari' Logged in successfully
+[2021-05-18 23:49:40.986382] maths course Selected by Zhila Sabzevari
+[2021-05-18 23:49:47.865828] Zhila Sabzevari Logged out
+[2021-05-18 23:50:13.418051] 'u2' admin Logged in successfully
+[2021-05-18 23:50:25.846081] Zhila Sabzevari took courses are Accepted
