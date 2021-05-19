@@ -90,7 +90,8 @@ class student(User):
 
     def __str__(self):
         print('_____ student info _____')
-        return f"name : {self.name}\nstudent number : {self.stu_id}\nmajor : {self.major}\ntotal units: {self.total_units}"
+        return f"student name : {self.name}\nstudent number : {self.stu_id}\n" \
+               f"major : {self.major}\ntotal units: {self.total_units}"
 
 
 

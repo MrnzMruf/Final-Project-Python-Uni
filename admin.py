@@ -46,7 +46,7 @@ class admin(User):
             password = User.admin_db[User.admin_db['username'] == self.username]['password'].tolist()[0]
             print(student(stu_name, password))
         else:
-            print(f"{stu_name} student is not exist in database")
+            print(f"{stu_name} student is not exist in dataset")
             return False
         if self.is_take_any_course(stu_name):
             with open(f"stu_taken_course\{stu_name}.json", 'r') as jp:
